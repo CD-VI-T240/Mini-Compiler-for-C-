@@ -93,7 +93,8 @@ Feel free to customize this `README.md` further to match any specific details or
 
 [1]: https://github.com/Omar-Khaled2198/Mini-Compiler?utm_source=chatgpt.com "GitHub - Omar-Khaled2198/Mini-Compiler: A mini compiler for C language ..."
 [2]: https://github.com/TangoEnSkai/mini-c-compiler-c?utm_source=chatgpt.com "GitHub - TangoEnSkai/mini-c-compiler-c: Complier Construction for Mini ..."
-##OUTPUT![Screenshot from 2025-05-26 23-16-46](https://github.com/user-attachments/assets/bcd3a7bf-66e2-4b59-a774-9045eaba8825)
+## OUTPUT
+![Screenshot from 2025-05-26 23-16-46](https://github.com/user-attachments/assets/bcd3a7bf-66e2-4b59-a774-9045eaba8825)
 ![Screenshot from 2025-05-26 23-16-20](https://github.com/user-attachments/assets/5e641369-2394-4c74-82fb-5435cdb0ea02)
 ![Screenshot from 2025-05-26 23-15-39](https://github.com/user-attachments/assets/cd1e4ac6-1d21-4d11-a5b1-4907740d23c6)
 

@@ -3,7 +3,7 @@ Certainly! Based on the contents of your repository [CD-VI-T240/Mini-Compiler-fo
 
 ---
 
-# Mini-Compiler-for-C
+# Mini-Compiler-for-CPP
 
 A mini compiler for a subset of the C programming language, developed as part of a Compiler Design course project. This compiler performs lexical analysis, syntax analysis, and provides a graphical user interface (GUI) for enhanced user interaction.
 
